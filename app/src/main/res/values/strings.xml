@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisa</string>
+    <string name="crop_image">Crop Gambar</string>
+    <string name="crop_failed">Crop Gagal</string>
+    <string name="no_history_found">Riwayat tidak ditemukan, Silahkan Simpan Data Anda</string>
+    <string name="cancerOrNonCancer">Kanker | Non Kanker</string>
+    <string name="score">50%</string>
+    <string name="history">Riwayat Analisis</string>
+    <string name="home">Beranda</string>
+    <string name="berita">Topik berita</string>
+    <string name="image_classifier_failed">Masukkan Gambar Terlebih Dahulu</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="result">Presentase</string>
+    <string name="titleNews">Judul Berita</string>
+    <string name="descriptionNews">Deskripsi Berita</string>
+    <string name="link">Baca Selengkapnya</string>
+    <string name="simpan">Simpan</string>
+    <string name="delete">Delete</string>
+    <string name="hasil_analisis">Hasil Analisis :</string>
+</resources>
